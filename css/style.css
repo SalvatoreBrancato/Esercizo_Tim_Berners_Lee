@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#banner{
+    width: 100%;
+    height: 170px;
+    background-color: skyblue;
+    position: relative;
+    background-image: url(../img/pattern.png)
+}
+
+.logo{
+    width: 15%;
+    height: 15%;;
+    position: absolute;
+    left: 10px;
+    bottom: 80px;
+}
+
+h1{
+    font-size: 70px;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+.autore{
+    color: lightslategray;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+a{
+    text-decoration-line: none;
+    color: lightskyblue;
+}
+
+.data{
+    color: lightslategray;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.foto1{
+    width: 900px;
+    height: 600px;
+    background-size: cover;
+    background-image: url(../img/tim-1.jpg);
+    display: inline-block;
+}
+
+.foto2{
+    width: 900px;
+    height: 600px;
+    background-size: cover;
+    background-image: url(../img/tim-2.jpg);
+    display: inline-block;
+}
+
+.descrizionefoto{
+font-family: serif;
+}
