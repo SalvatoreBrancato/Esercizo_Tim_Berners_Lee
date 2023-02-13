@@ -51,6 +51,7 @@ a{
     background-size: cover;
     background-image: url(../img/tim-1.jpg);
     display: inline-block;
+    margin-left: 10px;
 }
 
 .foto2{
@@ -63,4 +64,15 @@ a{
 
 .descrizionefoto{
 font-family: serif;
+margin-left: 10px;
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+ul{
+    margin-left: 10px;
 }
